@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <id>1</id>
+    <image>assets/img/sanpham/SP01.png</image>
+    <room>  Studio - 1 phòng ngủ </room>
+    <detail>The Royal Homies Suite Balcony - Phu My Hung (SECC, Crescent Mall, SC Vivo City)</detail>
+    <price>899000</price>
+  </Product>
+  <Product>
+    <id>2</id>
+    <image>assets/img/sanpham/SP02.jpg</image>
+    <room>Chung cư - 1 phòng ngủ </room>
+    <detail>Pura Vida 1 ★ Studio 35m2 ★ 5' tới chợ Bến Thành</detail>
+    <price>603200</price>
+  </Product>
+  <Product>
+    <id>3</id>
+    <image>assets/img/sanpham/SP03.jpeg</image>
+    <room>Chung cư - 1 phòng ngủ</room>
+    <detail>Indochine Style Studio@Experience Locals Lifestyle</detail>
+    <price>999000</price>
+  </Product>
+  <Product>
+    <id>4</id>
+    <image>assets/img/sanpham/Sp04.jpg</image>
+    <room>Căn hộ dịch vụ - 1 phòng ngủ</room>
+    <detail>  NEW! Pepper House 4th@StayWork Modern Riverfront Apartment</detail>
+    <price>1030000</price>
+  </Product>
+  <Product>
+    <id>5</id>
+    <image>assets/img/sanpham/SP05.jpg</image>
+    <room>Chung cư - 2 phòng ngủ</room>
+    <detail>StayFun No.1 - Căn hộ 40m2, cách Bitexco 10' đi bộ</detail>
+    <price>881600</price>
+  </Product>
+  <Product>
+    <id>6</id>
+    <image>assets/img/sanpham/SP06.jpg</image>
+    <room> Studio - 1 phòng ngủ</room>
+    <detail>Next to Landmark81. Free airport p/up +  massage.</detail>
+    <price>2113600</price>
+  </Product>
+  <Product>
+    <id>7</id>
+    <image>assets/img/sanpham/SP07.jpg</image>
+    <room>Chung cư - 2 phòng ngủ</room>
+    <detail>2 BR- Lux Millennium- View Sông SG  Bitexco- Free Gym  Pool</detail>
+    <price>1200000</price>
+  </Product>
+  <Product>
+    <id>8</id>
+    <image>assets/img/sanpham/SP08.jpg</image>
+    <room>Studio - 1 phòng ngủ</room>
+    <detail>LE  MYSTÈRE  APPARTEMENT ❤ SAIGON ROYAL</detail>
+    <price>600000</price>
+  </Product>
+  <Product>
+    <id>9</id>
+    <image>assets/img/sanpham/SP09.jfif</image>
+    <room>Căn hộ dịch vụ - 1 phòng ngủ</room>
+    <detail>🌸 Deluxe Studio Apartment 🌸 Continental Breakfast Included</detail>
+    <price>1170000</price>
+  </Product>
+  <Product>
+    <id>10</id>
+    <image>assets/img/sanpham/SP010.jpg</image>
+    <room>Chung cư - 2 phòng ngủ</room>
+    <detail>Luxury Stay in Landmark 3 Building, 1 bedroom !</detail>
+    <price>1624000</price>
+  </Product>
+  <Product>
+    <id>11</id>
+    <image>assets/img/sanpham/SP011.jfif</image>
+    <room>Homestay - 1 phòng ngủ</room>
+    <detail>Fusio Gorgeous Hideout Chilling in Downtown ❤</detail>
+    <price>450000</price>
+  </Product>
+  <Product>
+    <id>12</id>
+    <image>assets/img/sanpham/SP012.jpg</image>
+    <room>Căn hộ dịch vụ - 3 phòng ngủ</room>
+    <detail>Sunwah Golden House - Amazing River View</detail>
+    <price>3900000</price>
+  </Product>
+  <Product>
+    <id>13</id>
+    <image>assets/img/sanpham/SP013.jpg</image>
+    <room>Homestay - 1 phòng ngủ</room>
+    <detail> Andy's House - The Lotus Room | Tropical Garden</detail>
+    <price>899000</price>
+  </Product>
+  <Product>
+    <id>14</id>
+    <image>assets/img/sanpham/SP014.jpg</image>
+    <room>Chung cư - 2 phòng ngủ</room>
+    <detail>JOO HOUSE LUX R2.1</detail>
+    <price>548000</price>
+  </Product>
+  <Product>
+    <id>15</id>
+    <image>assets/img/sanpham/SP015.jpg</image>
+    <room> Studio - 1 phòng ngủ</room>
+    <detail>The Rivergate - modern designed and cozy studio</detail>
+    <price>550000</price>
+  </Product>
+</ArrayOfProduct>
